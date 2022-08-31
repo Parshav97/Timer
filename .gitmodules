@@ -1,0 +1,3 @@
+[submodule "STOPWATCH"]
+	path = STOPWATCH
+	url = https://github.com/Parshav97/Timer.git
